@@ -1,0 +1,9 @@
+欢迎浏览Easytong的存储库！
+
+分支-
+  notepad - 存储Easy Notepad
+  box - 存储Easy Box
+  toolbox - 存储Easy ToolBox
+  blog - 存储Easytong的博客文件
+  ai - 存储Easy AI
+  
